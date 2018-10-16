@@ -23,6 +23,7 @@ Running `mvn clean` will get us back to only the source Java and the `pom.xml`:
     pom.xml
     src/main/java/com/mycompany/app/App.java
     src/test/java/com/mycompany/app/AppTest.java
+//TEst 12112
 
 Running `mvn compile` produces a class file:
 
