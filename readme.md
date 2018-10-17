@@ -60,6 +60,6 @@ Running `java -jar target/my-app-1.0-SNAPSHOT.jar` requires http://maven.apache.
 
 TEST BUILD
 
-jhkh
+jhkh1212
 //
 ///
